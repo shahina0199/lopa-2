@@ -109,13 +109,13 @@ margin-right: 12px;
     
 }
 /*===================navbar================ */
-nav{
-    width: 100vw;
+nav {
+    width: 115vw;
     height: 5rem;
     position: fixed;
     top: 0;
     z-index: 11;
-    background: var(--color-4primary)  ;
+    background: var(--color-4primary);
 }
 .nav_container{
     height: 100%;

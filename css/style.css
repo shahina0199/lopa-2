@@ -377,7 +377,7 @@ background-clip: text;
     position: absolute;
     max-width: 300px;
     height: 42px;
-    left: 121px;
+    left: 137px;
     bottom: 32px;
     background: #FFFFFF;
     box-shadow: 0px 10px 30px rgba(40, 48, 63, 0.25);
@@ -1377,16 +1377,16 @@ hr{
     }
     
     .bigbox {
-        max-width: 346px;
+        max-width: 326px;
         height: 453px;
         margin: auto;
     }
     .bigbox::after {
-        bottom: 82px;
-        right: 133px;
-        width: 36%;
-        height: 96%;
-    }
+    bottom: 82px;
+    right: 110px;
+    width: 36%;
+    height: 96%;
+}
     .testimonial-box {
         position: relative;
         width: 336px;
@@ -1458,7 +1458,7 @@ hr{
         position: absolute;
         width: 221px;
         height: 51px;
-        left: 137px;
+        left: 121px;
         bottom: 375px;
     }
     .great h4 {

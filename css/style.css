@@ -158,12 +158,11 @@ nav button{
 }
 .lopa img {
     position: absolute;
-    width: 32px;
-    height: 32px;
+    width: 116px;
+    height: 30px;
     left: 101.41px;
     top: 22px;
     position: absolute;
-
 }
 /*===================navbar end================ */
 
@@ -326,13 +325,13 @@ background-clip: text;
     }
 
     .apple {
-        display: flex;
-        /* padding: 15px; */
-        max-width: 377px;
-        margin: auto;
-        padding-top: 46px;
-        flex-wrap: wrap;
-    }
+    display: flex;
+    
+    max-width: 348px;
+     
+    padding-top: 16px;
+    flex-wrap: wrap;
+}
     .Paypal-heading h2 {
         /* max-width: 504px; */
         height: 120px;
@@ -365,8 +364,7 @@ background-clip: text;
     display: block;
     object-fit: cover;
     max-width: 600px;
-     
-    flex-basis: 50%;
+    flex-basis: 37%;
 }
 .Paypal-box-img-2 {
     position: absolute;
@@ -379,8 +377,8 @@ background-clip: text;
     position: absolute;
     max-width: 300px;
     height: 42px;
-    left: 235px;
-    bottom: -8px;
+    left: 183px;
+    bottom: 32px;
     background: #FFFFFF;
     box-shadow: 0px 10px 30px rgba(40, 48, 63, 0.25);
     border-radius: 10px;
